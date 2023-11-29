@@ -1,6 +1,15 @@
 title: Mohammed Misbah K 
 logo: /assets/img/Test-Logo-Small-Black-transparent-1.png
-description: Minimal is a theme for GitHub Pages.
+
+
+description: >
+  As a seasoned data scientist with over 8 years of experience, I have honed my skills in extracting valuable insights from complex datasets. My expertise spans statistical analysis, machine learning, and data visualization. I am passionate about leveraging data-driven approaches to solve real-world problems and drive informed decision-making.
+
+  Throughout my career, I have successfully implemented and deployed predictive models, optimized algorithms, and contributed to the development of data-driven strategies. My proficiency in programming languages such as Python and R, coupled with my deep understanding of data manipulation and analysis tools, enables me to derive meaningful conclusions and actionable recommendations.
+
+  I am adept at collaborating with cross-functional teams, effectively communicating complex findings to non-technical stakeholders, and staying abreast of the latest advancements in the rapidly evolving field of data science.
+
+show_downloads: true
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
